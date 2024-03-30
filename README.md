@@ -1,92 +1,48 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>App Mobile</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-    }
-    .container {
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 20px;
-    }
-    .social-icons {
-      display: flex;
-      justify-content: flex-end;
-      margin-top: 20px;
-    }
-    .social-icons a {
-      margin-left: 10px;
-      text-decoration: none;
-    }
-    .social-icons a:hover {
-      transform: scale(1.2);
-      transition: transform 0.3s ease;
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <h1 align="center">App Mobile</h1>
+# App Mobile
 
-    <p align="center">
-      Aula exclusiva da trilha React Native da Rocketseat <br/>
-      <a href="https://app.rocketseat.com.br/classroom/projeto-01">Estude esse projeto em formato de vídeo clicando aqui.</a>
-    </p>
+Aula exclusiva da trilha React Native da Rocketseat. Estude esse projeto em formato de vídeo clicando [aqui](https://app.rocketseat.com.br/classroom/projeto-01).
 
-    <p align="center">
-      <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-      <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-      <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-      <a href="#memo-licença">Licença</a>
-    </p>
+[![License](https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000)](https://opensource.org/licenses/MIT)
 
-    <p align="center">
-      <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-    </p>
+![projeto DevLinks](./assets/react.jpg)
 
-    <br>
+## 🚀 Tecnologias
 
-    <p>
-      <img src="./assets/octocat.png" width="200" align="left">
-    </p>
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-    ## 🚀 Tecnologias
+- React Native
+- TypeScript
+- Git e Github
+- Expo
 
-    Esse projeto foi desenvolvido com as seguintes tecnologias:
+## 💻 Projeto
 
-    - React Native
-    - TypeScript
-    - Git e Github
-    - Expo
+O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-    ## 💻 Projeto
+- [Acesse outros projetos, online](https://github.com/TonFabian)
+- [Assistir aulas](https://app.rocketseat.com.br/classroom/projeto-01)
 
-    O DevLinks é um agregador de links para usar como cartão de visitas online.
+# Minhas Redes Sociais
 
-    - [Acesse o projeto finalizado, online](https://tonfabian.github.io/projeto/)
-    - [Assistir aulas](https://app.rocketseat.com.br/classroom/projeto-01)
+Você pode me encontrar nas seguintes redes sociais:
 
-    # Minhas Redes Sociais
+ <div>
+<a href="https://www.facebook.com/werton.fabian/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://jointhreads.com/u/werton_f" target="_blank"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" target="_blank"></a>
+<a href="mailto:wertonf4bian@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="www.linkedin.com/in/werton-fabian-7ba5282aa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-    <div class="social-icons">
-      <a href="https://www.facebook.com/werton.fabian/">📘</a>
-      <a href="https://www.instagram.com/werton_fabian/">📸</a>
-      <a href="www.linkedin.com/in/werton-fabian-7ba5282aa">🔗</a>
-    </div>
 
-    ## :memo: Licença
+![octocat](./assets/octocat.png)
+</div>
 
-    Esse projeto está sob a licença MIT.
 
-    ---
 
-    Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
-  </div>
-</body>
-</html>
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
+
+---
+
+Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
