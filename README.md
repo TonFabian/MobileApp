@@ -27,8 +27,8 @@ O DevLinks é um agregador de links para usar como cartão de visitas online.
 Você pode me encontrar nas seguintes redes sociais:
 
  <div>
-<a href="https://www.facebook.com/werton.fabian/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://jointhreads.com/u/werton_f" target="_blank"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/werton_fabian/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.threads.net/@werton_fabian" target="_blank"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" target="_blank"></a>
 <a href="mailto:wertonf4bian@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="www.linkedin.com/in/werton-fabian-7ba5282aa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
